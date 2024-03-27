@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BMI - Body Mass Index </string>
     <string name="message">Calculate your BMI</string>
-    <string name="msg_result">Classificação %1$s</string>
+    <string name="msg_result">Classification %1$s</string>
 </resources>
