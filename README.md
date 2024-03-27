@@ -9,9 +9,9 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 <!-- You can add more screenshots here if you like -->
 <img src="/results/front_data.png" width="260">&emsp;<img src="/results/Screenshot_front BMI.png" width="260">&emsp;<img src="/results/result_layout.png" width="260">
 
-## Tecnologias
+## Tecnologies
 * Kotlin
-* Activity para host de telas
+* Activity for screen host
 * ViewGroup
     * RelativeLayout
     * LinearLayout
@@ -19,23 +19,23 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
     - TextView
     - EditText
     - Button
-- Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- FindViewById para recuperar components de UI
-- String resource para concatenação de textos
+- Toast for message display
+- Explicit Intent to open the second Activity
+- FindViewById to retrieve UI components
+- String resource for text concatenation
 
 
 ### TODO
-- Melhorar estilização do app
+- Improve app styling
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+José Nuno Marques (follow me on [LinkedIn](https://www.linkedin.com/in/nuno-lcm/)]
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2021 José Nuno Marques
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
